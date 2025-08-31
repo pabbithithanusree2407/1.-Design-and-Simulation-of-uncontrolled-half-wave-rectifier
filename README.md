@@ -52,11 +52,14 @@ Resistance=0.5 ohm
 Vin = 220 Vrms at 50Hz (312 Vp)
 <img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/b2bb32b7-4bbf-4398-a2eb-a14853f5205a" />
 ## Simulation
+<img width="839" height="615" alt="Screenshot 2025-08-31 180552" src="https://github.com/user-attachments/assets/eb5af96e-57fc-469a-a70b-4cd636b59159" />
 
 ## Output
+<img width="1920" height="1140" alt="Screenshot 2025-08-31 180339" src="https://github.com/user-attachments/assets/2a748da9-4f53-4218-a734-c998e102e473" />
 
 ## Result
-
+  Thus the uncontrolled half way rectifier has been stimulated successfully using MATLAB
+and the output has been verified.
 
 
 
